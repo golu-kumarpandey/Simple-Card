@@ -8,7 +8,7 @@ body{
 background-image: url("https://images.pexels.com/photos/207353/pexels-photo-207353.jpeg?auto=compress&cs=tinysrgb&w=600");
 background-size: cover;
 height: 90vh;
-padding: 30px;
+padding: 50px;
 
    
     
@@ -18,7 +18,7 @@ padding: 30px;
 .heading{
     margin: 0px;
    
-    padding-left: 20px;
+    
     font-style: italic;
     font-weight: bold;
     color: rgb(67, 70, 61);
